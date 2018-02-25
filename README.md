@@ -6,8 +6,8 @@ Description
 Created CLI application that is an Amazon-like storefront with the MySQL. The app will take orders and deplete stock from the store's inventory.
 
 ### Packages To Install ###
-inquirer package
-mysql package
+* inquirer package
+* mysql package
 
 ### Tools ###
 mysql Workbench to create bamazon database where you will build the products table.
