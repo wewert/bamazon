@@ -19,6 +19,9 @@ Once database is created and files are installed locally, users can run app by t
 
 ![screen shot 2018-02-24 at 11 52 27 pm](https://user-images.githubusercontent.com/675564/36638937-0cc9f388-19be-11e8-860b-dbfe15b8bbf3.png)
 
-
+![screen shot 2018-02-24 at 11 55 55 pm](https://user-images.githubusercontent.com/675564/36638953-74dd4a56-19be-11e8-84b8-04d295cb5242.png)
 
 The app will either give the user an error message via console log stating the number of widgets wanted is too high if number is above what is in stock_quantity or a console message stating the order has been fulfilled along with the total price.
+
+![screen shot 2018-02-24 at 11 56 44 pm](https://user-images.githubusercontent.com/675564/36638955-7ae700ae-19be-11e8-9c78-12e27629fe43.png)
+
