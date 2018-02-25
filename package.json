@@ -1,0 +1,23 @@
+{
+  "name": "bamazon_db",
+  "version": "1.0.0",
+  "description": "amazon like database",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wewert/bamazon.git"
+  },
+  "author": "Ken Lee <wewewert@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wewert/bamazon/issues"
+  },
+  "homepage": "https://github.com/wewert/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
