@@ -29,7 +29,7 @@ The app will either give the user an error message via console log stating the n
 ### Bamazon Manager Feature ###
 Users can run app by typing 'node bamazonManager.js' in terminal. The app will first show a list of commands the manager can run by arrowing up or down to select option.
 
-
+![screen shot 2018-02-28 at 11 28 44 am](https://user-images.githubusercontent.com/675564/36805420-a2bcafc0-1c7a-11e8-955f-51705671530a.png)
 
 User selects "View Products for Sale" and the user will be able to view all items in the database along with the items information such as price and quantity.
 
