@@ -53,3 +53,4 @@ User can also select "End Program" and any time in any view to exit out of the a
 
 Application also has working validation.
 
+![screen shot 2018-02-28 at 11 42 13 am](https://user-images.githubusercontent.com/675564/36806182-76805482-1c7c-11e8-8455-57633dc041e4.png)
