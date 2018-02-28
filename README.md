@@ -45,6 +45,6 @@ User selects "Add to Inventory" and the user will be able to add to the current 
 
 User selects "Add New Product" and the user will be able to make a new item to the database.
 
-
+![screen shot 2018-02-28 at 11 37 10 am](https://user-images.githubusercontent.com/675564/36805905-c4f3a0ac-1c7b-11e8-940d-26c8a10437bd.png)
 
 User can also select "End Program" and any time in any view to exit out of the application.
