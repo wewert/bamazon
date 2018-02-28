@@ -41,7 +41,7 @@ User selects "View Low Inventory" and the user will be able to see any item that
 
 User selects "Add to Inventory" and the user will be able to add to the current stock quantity of a specific item.
 
-
+![screen shot 2018-02-28 at 11 35 06 am](https://user-images.githubusercontent.com/675564/36805764-79cefc2a-1c7b-11e8-9235-eb9cc29949c6.png)
 
 User selects "Add New Product" and the user will be able to make a new item to the database.
 
