@@ -33,7 +33,7 @@ Users can run app by typing 'node bamazonManager.js' in terminal. The app will f
 
 User selects "View Products for Sale" and the user will be able to view all items in the database along with the items information such as price and quantity.
 
-
+![screen shot 2018-02-28 at 11 31 05 am](https://user-images.githubusercontent.com/675564/36805543-eba1228e-1c7a-11e8-8da1-bd836a0d3967.png)
 
 User selects "View Low Inventory" and the user will be able to see any item that has less than 10 items in stock.
 
