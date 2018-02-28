@@ -37,7 +37,7 @@ User selects "View Products for Sale" and the user will be able to view all item
 
 User selects "View Low Inventory" and the user will be able to see any item that has less than 10 items in stock.
 
-
+![screen shot 2018-02-28 at 11 32 49 am](https://user-images.githubusercontent.com/675564/36805634-262795fa-1c7b-11e8-888c-6652458f4084.png)
 
 User selects "Add to Inventory" and the user will be able to add to the current stock quantity of a specific item.
 
